@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="CustomPerm">edu.uic.cs478.project3 Permission</string>
+</resources>
